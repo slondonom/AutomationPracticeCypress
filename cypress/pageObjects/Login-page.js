@@ -3,7 +3,7 @@
 class Loginpage {
       
   navigate() {
-    cy.visit('http://automationpractice.com/index.php')
+    cy.visit('http://www.automationpractice.pl/index.php')
 }
 
   clickLogin(){
